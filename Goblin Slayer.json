@@ -6,11 +6,11 @@
   "cover": "https://mangadex.org/covers/67a7dfd1-a39d-46c8-8ff2-9a24a9abaeb6/099c9200-8b35-43aa-b02a-c71efa8b01c2.jpg.512.jpg",
   "chapters": {
     "91": {
-      "title": "91",
+      "title": "",
       "volume": "",
       "last_updated": "1722192355",
       "groups": {
-        "Official": "https://cubari.moe/read/imgur/HF828gD"
+        "Official": "/proxy/api/imgur/chapter/HF828gD"
       }
     }
   }
